@@ -21,8 +21,7 @@ h1, h2, h3, p{margin: 0;}
  }
 
 h1, h2{
-
- color: #9ABC97;
+ color: #FF068D;
  font-size: 40px;
   font-weight: 900;
     line-height: 1;
@@ -211,7 +210,7 @@ img{
 
 #menu{
   width:100%;
-  background: linear-gradient(#FFFCBB,#FFDFDC);
+  background: linear-gradient(#A6C488,#89B884);
   padding:5px 0 15px;
 }
 #menu.default{
@@ -327,7 +326,7 @@ background-color: red;
 }
 
 .s1 .price span{
-  background: linear-gradient(180deg, #F08175 0%, #F8D8C3 89.58%, #BD5725 100%);  
+  background: #CEE23D;  
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -462,7 +461,7 @@ background-color: white;
 
 
 .s55{
-  background: linear-gradient(#FFDFDC,#FFFCBB);  //*(180deg, #FFF 0%, #DEEFFF 60.05%, #ECC320 93.74%);*//
+  background: linear-gradient(#A6C488,#89B884);  //*(180deg, #FFF 0%, #DEEFFF 60.05%, #ECC320 93.74%);*//
   font-size: 15px;
   padding: 100px 0;
 }
@@ -543,7 +542,7 @@ position: absolute;
  border-radius: 20px;
 }
 .s7{
-  background: linear-gradient(#FFFCBB, #FFDFDC);
+  background: linear-gradient(#89B884,#A6C488);
 }
 .s7 h2{
   margin-bottom: 29px;
@@ -608,7 +607,7 @@ position: absolute;
 }
 .s8 .lesson{
   border-radius: 10px;
-  background: #FFDFDC;
+  background: #CEE23D;
   padding: 5px 20px;
   text-align: center;
   color: #black;
@@ -625,7 +624,7 @@ position: absolute;
 }
 .s9{
   /*background: linear-gradient(180deg, #E67E22 0%, #AE9159 100%);*/
-  background: linear-gradient(#FFFCBB, #FFDFDC); 
+background: linear-gradient(#A6C488,#89B884);
 }
 .s9 h2{
   text-align: center;
@@ -723,7 +722,7 @@ background: linear-gradient(180deg, #F08175 0%, #F8D8C3 89.58%, #BD5725 100%);
 
 }
 .s12{
-  background: linear-gradient(#FFDFDC,#FBE7B5); 
+ background: linear-gradient(#A6C488,#89B884);
 }
 
 .footer {
