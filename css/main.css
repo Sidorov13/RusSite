@@ -19,9 +19,12 @@ h1, h2, h3, p{margin: 0;}
  #myh24{
 
  }
+ .s1 h2 {
+ color: #13A723;
+ }
 
 h1, h2{
- color: #B07696;
+ color: #0F8679;
  font-size: 40px;
   font-weight: 900;
     line-height: 1;
