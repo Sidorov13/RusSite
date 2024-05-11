@@ -244,7 +244,7 @@ img{
 .bluebg{
   border-radius: 30px;
   /*border: 1px solid #4AA8FF;*/
-  background: linear-gradient(#CEE23D , #6DA686);
+   background: linear-gradient(rgba(206, 226, 61, 0.35), rgba(109, 166, 134, 100));
   backdrop-filter: blur(0.5px);
   color: dark;
 }
@@ -316,7 +316,8 @@ img{
   width: 80%;
   font-size: 15px;
   font-weight: 500;
-  background: linear-gradient(#CEE23D , #6DA686);
+  /*background: linear-gradient(#CEE23D ,#6DA686);*/
+   background: linear-gradient(rgba(206, 226, 61, 0.35), rgba(109, 166, 134, 100));
 }
 .s1 .price{
   font-size: 20px;
