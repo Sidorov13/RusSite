@@ -212,7 +212,7 @@ img{
 
 #menu{
   width:100%;
-  background: linear-gradient(#A6C488,#89B884);
+  background: linear-gradient(#EBDE78,#B6CE80);
   padding:5px 0 15px;
 }
 #menu.default{
@@ -272,7 +272,7 @@ img{
 }
 
 .s1{
-	background: linear-gradient(180deg, #FFF 0%, #FFF 22.29%, #FFF 39.07%, #FFFFFF69.66%, #9EC886 100%);
+	background: linear-gradient(180deg, #FFF 0%, #FFF 22.29%, #FFF 39.07%, #FFFFFF69.66%, #EBDE78 100%);
      margin-top: 20px;
   padding-top: 0;
 }
@@ -351,7 +351,8 @@ background-color: white;
   padding-bottom: 100px;
  
 
-  background: linear-gradient(#DBD77C,#9EC886);
+ 
+  background: linear-gradient(#B6CE80,#EBDE78);
 }
 .s3 h2{
   margin-bottom: 32px;
@@ -388,7 +389,8 @@ background-color: white;
  //* margin-top: -80px;*//
   padding-top: 65px;
 
- background: linear-gradient(#9EC886,#DBD77C);
+ 
+ background: linear-gradient(#EBDE78,#B6CE80);
   
 
 }
@@ -466,7 +468,7 @@ background-color: white;
 
 .s55{
   
-  background: linear-gradient(#9EC886,#DBD77C);
+  background: linear-gradient(#EBDE78,#B6CE80);
   font-size: 15px;
   padding: 100px 0;
 }
@@ -548,7 +550,7 @@ position: absolute;
 }
 .s7{
  
-  background: linear-gradient(#DBD77C,#9EC886);
+  background: linear-gradient(#B6CE80,#EBDE78);
 }
 .s7 h2{
   margin-bottom: 29px;
@@ -631,7 +633,9 @@ position: absolute;
 .s9{
   /*background: linear-gradient(180deg, #E67E22 0%, #AE9159 100%);*/
 
-background: linear-gradient(#9EC886,#DBD77C);
+
+
+background: linear-gradient(#EBDE78,#B6CE80);
 }
 .s9 h2{
   text-align: center;
@@ -729,7 +733,7 @@ background: #0F8679;
 
 }
 .s12{
-background: linear-gradient(#9EC886,#DBD77C);
+background: linear-gradient(#EBDE78,#B6CE80);
 }
 
 .footer {
