@@ -800,6 +800,8 @@ text-align:center;
 }
 #footerright {
   text-align:end;
+  display: grid;
+  align-items: end;
 }
 
 
